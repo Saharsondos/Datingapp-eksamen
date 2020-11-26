@@ -11,4 +11,4 @@ class User {
 }
 
 //eksporterer User
-module.exports = User; 
+module.exports = User; //tester
